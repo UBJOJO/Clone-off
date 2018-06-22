@@ -1,0 +1,22 @@
+.top__header {
+  text-align: right;
+  margin-top: 20px;
+  font-size: 12px;
+  margin-bottom: 140px;
+}
+
+.top__header i {
+  margin-right: 7px;
+}
+
+.Google img {
+  display: block;
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.Google__bottom input {
+  padding-left: 80px;
+  padding-top: 10px;
+}
